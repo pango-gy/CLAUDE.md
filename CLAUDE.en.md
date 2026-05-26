@@ -161,7 +161,3 @@ Include the following when responding:
 5. Any remaining risks or follow-up TODOs
 
 Do not guess on uncertain parts—mark them clearly.
-
----
-
-**Signs that these guidelines are working:** diffs contain fewer unnecessary changes, fewer rewrites due to excessive complexity, and questions are raised before implementation rather than after mistakes.
